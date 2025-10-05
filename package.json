@@ -15,14 +15,14 @@
   },
   "homepage": "https://github.com/aucchen/social_democracy_alternate_history",
   "dependencies": {
-    "esmify": "^2.1.1",
+    "d3": "^7.9.0",
     "jquery": "^3.7.1",
     "parliament-svg": "^3.0.0",
     "steamworks.js": "^0.4.0"
   },
   "devDependencies": {
-    "d3": "^7.9.0",
     "browserify": "^17.0.1",
+    "esmify": "^2.1.1",
     "dendrynexus": "github:aucchen/dendrynexus",
     "electron": "^37.1.0",
     "electron-builder": "^26"
